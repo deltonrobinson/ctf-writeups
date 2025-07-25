@@ -19,3 +19,32 @@ This is for learning purposes only.
 ## 📎 Links
 - [LinkedIn](https://www.linkedin.com/in/deltonrobinson/)  
 - [GitHub](https://github.com/deltonrobinson)
+
+
+<!-- TEMPLATE
+
+## Challenge: [Name]
+**Category:** [Web Exploitation / Crypto / Forensics / etc.]  
+**Points:** [Value]  
+**Platform:** [picoCTF / THM / HTB]
+
+---
+
+### 🔍 Summary
+[One-line description of the challenge or what made it interesting]
+
+### 🛠 Tools & Commands
+- `nmap -sV ...`
+- `curl --data ...`
+- Burp Suite / Wireshark / etc.
+
+### 🧠 Approach
+- Step 1: Did X
+- Step 2: Noticed Y
+- Step 3: Exploited Z
+- Flag: `picoCTF{example_flag}`
+
+### 💭 Reflection
+[What you learned, or what tripped you up]
+
+-->
