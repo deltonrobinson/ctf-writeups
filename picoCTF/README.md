@@ -2,7 +2,7 @@
 
 This repository contains my personal writeups for challenges from [picoCTF](https://picoctf.org/), an educational Capture The Flag competition focused on cybersecurity fundamentals. These writeups reflect my approach to solving each challenge, along with the tools, thought process, and techniques I used.
 
-## 📚 What’s Inside (WIP, READMEs will be created soon)
+## 📚 What’s Inside
 
 Each folder or file is organized by challenge name and includes:
 - **Challenge Description** (as presented by picoCTF)
