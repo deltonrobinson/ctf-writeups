@@ -8,6 +8,8 @@
 **Challenge Name:** SSTI1  
 **Platform:** picoCTF  
 **Author of Challenge:** VENAX  
+**Flag:** picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_[REDACTED]}
+
 > _"I made a website where you can announce anything you want!"_
 
 That’s the hint we’re given — a simple webpage that echoes back whatever input you type in an `<h1>` tag. Sounds harmless, right?<br>
@@ -53,3 +55,4 @@ Injecting this payload allows me to run the command ```ls```, which lets me view
 Viewing the files within the directory, I can clearly see a ```flag``` file, so I proceed to inject the same payload but change the command from ```ls``` to ```cat flag```, which provides me the flag I need to complete the challenge!
 
 <img src="https://i.imgur.com/FgMUtuq.png" height="80%" width="80%" alt="Initial Description"/><br>
+<img src="https://i.imgur.com/3zb1J6C.png" height="80%" width="80%" alt="Initial Description"/><br>
