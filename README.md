@@ -1,7 +1,6 @@
 # CTF Writeups 🧩📁
 
-A growing collection of writeups from CTF challenges outside of picoCTF.  
-Mostly TryHackMe and random practice labs — more coming soon.
+A growing collection of writeups from CTF challenges I complete.
 
 ## ✍️ What’s Here (So Far)
 Just getting started! This will house:
